@@ -1,0 +1,51 @@
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\bin\Debug\Juego.xml
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.xml
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\Juego\Juego\obj\x86\Debug\Juego.Juego.resources
+D:\Juego\Juego\obj\x86\Debug\Juego.exe
+D:\Juego\Juego\obj\x86\Debug\Juego.xml
+D:\Juego\Juego\obj\x86\Debug\Juego.pdb
+D:\Juego\Juego\bin\Debug\Juego.exe
+D:\Juego\Juego\bin\Debug\Juego.pdb
+D:\Juego\Juego\bin\Debug\Juego.xml
+D:\Juego\Juego\obj\x86\Debug\Juego.Juego.resources
+D:\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+D:\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Jorge\Desktop\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.xml
+C:\Users\Jorge\Desktop\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.pdb
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.xml
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.pdb
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\bin\Debug\Juego.xml
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.Juego.resources
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+C:\Users\Jorge\Desktop\TODO\Nueva carpeta\MEMORIA AZUL 2015\NUEVA\2015\JORGE ROBERTO\ \Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.Cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\bin\Debug\Juego.xml
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.vbprojAssemblyReference.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.Juego.resources
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.vbproj.CoreCompileInputs.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.xml
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2016 PICHULOS\USB AZUL JORSH\MUESTRA\Juego\Juego\obj\x86\Debug\Juego.pdb
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.exe
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.xml
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.pdb
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\bin\Debug\Juego.exe
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\bin\Debug\Juego.pdb
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\bin\Debug\Juego.xml
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.vbprojResolveAssemblyReference.cache
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.Juego.resources
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+G:\4. Progra\Programacion De Aplicaciones\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.Cache

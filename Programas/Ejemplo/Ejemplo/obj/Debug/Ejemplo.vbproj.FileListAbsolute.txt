@@ -1,0 +1,26 @@
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbprojResolveAssemblyReference.cache
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.Cache
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+c:\users\curso\documents\visual studio 2015\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.frmEjemplo.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbprojResolveAssemblyReference.cache
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.frmEjemplo.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.Cache
+D:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+D:\4. Progra\Programacion De Aplicaciones\Programas\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb

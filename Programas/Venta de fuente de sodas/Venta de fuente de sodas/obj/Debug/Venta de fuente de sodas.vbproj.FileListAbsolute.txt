@@ -1,0 +1,11 @@
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\bin\Debug\Venta de fuente de sodas.exe.config
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\bin\Debug\Venta de fuente de sodas.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\bin\Debug\Venta de fuente de sodas.pdb
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\bin\Debug\Venta de fuente de sodas.xml
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta de fuente de sodas.vbprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta_de_fuente_de_sodas.frmFuenteSodas.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta_de_fuente_de_sodas.Resources.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta de fuente de sodas.vbproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta de fuente de sodas.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta de fuente de sodas.xml
+c:\users\fernando\documents\visual studio 2015\Projects\Venta de fuente de sodas\Venta de fuente de sodas\obj\Debug\Venta de fuente de sodas.pdb

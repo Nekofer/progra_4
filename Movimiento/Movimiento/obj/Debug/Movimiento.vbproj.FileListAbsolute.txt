@@ -1,0 +1,27 @@
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\bin\Debug\Movimiento.exe.config
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\bin\Debug\Movimiento.exe
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\bin\Debug\Movimiento.pdb
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\bin\Debug\Movimiento.xml
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.vbprojResolveAssemblyReference.cache
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.Form1.resources
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.Resources.resources
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.vbproj.GenerateResource.Cache
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.exe
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.xml
+c:\users\curso\documents\visual studio 2015\Projects\Movimiento\Movimiento\obj\Debug\Movimiento.pdb
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\bin\Debug\Movimiento.exe.config
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\bin\Debug\Movimiento.exe
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\bin\Debug\Movimiento.pdb
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\bin\Debug\Movimiento.xml
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.vbprojAssemblyReference.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.Form1.resources
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.Resources.resources
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.vbproj.GenerateResource.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.vbproj.CoreCompileInputs.cache
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.exe
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.xml
+C:\Users\Armando\Documents\U Q I\TRABAJOS UQI-PROGRA\2020 ESTRELLAS\PROG APLIC 2019\Entregas parcial 2\Valdovinos Humberto\Movimiento\Movimiento\obj\Debug\Movimiento.pdb
+G:\4. Progra\Programacion De Aplicaciones\Movimiento\Movimiento\bin\Debug\Movimiento.exe.config
+G:\4. Progra\Programacion De Aplicaciones\Movimiento\Movimiento\obj\Debug\Movimiento.exe
+G:\4. Progra\Programacion De Aplicaciones\Movimiento\Movimiento\obj\Debug\Movimiento.xml
+G:\4. Progra\Programacion De Aplicaciones\Movimiento\Movimiento\obj\Debug\Movimiento.pdb

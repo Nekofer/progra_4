@@ -1,0 +1,32 @@
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe.config
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.pdb
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.xml
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.FrmCalculadoraB.resources
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.Resources.resources
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.vbproj.GenerateResource.Cache
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.exe
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.xml
+c:\users\curso\documents\visual studio 2015\Projects\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe.config
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.exe
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.xml
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.xml
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.vbprojResolveAssemblyReference.cache
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.FrmCalculadoraB.resources
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.Resources.resources
+D:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.vbproj.GenerateResource.Cache
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe.config
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.exe
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.xml
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.pdb
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.exe
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.pdb
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\bin\Debug\Calculadora Basica.xml
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.vbprojResolveAssemblyReference.cache
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.FrmCalculadoraB.resources
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora_Basica.Resources.resources
+E:\4. Progra\Programacion De Aplicaciones\Programas\Calculadora Basica\Calculadora Basica\obj\Debug\Calculadora Basica.vbproj.GenerateResource.Cache

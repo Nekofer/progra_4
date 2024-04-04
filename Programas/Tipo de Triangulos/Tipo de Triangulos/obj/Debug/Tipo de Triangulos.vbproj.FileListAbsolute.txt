@@ -1,0 +1,22 @@
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.exe.config
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.pdb
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.xml
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.vbprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo_de_Triangulos.frmTriangulo.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo_de_Triangulos.Resources.resources
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.vbproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.exe
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.xml
+c:\users\fernando\documents\visual studio 2015\Projects\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.exe.config
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\bin\Debug\Tipo de Triangulos.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.vbprojResolveAssemblyReference.cache
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo_de_Triangulos.frmTriangulo.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo_de_Triangulos.Resources.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Tipo de Triangulos\Tipo de Triangulos\obj\Debug\Tipo de Triangulos.vbproj.GenerateResource.Cache

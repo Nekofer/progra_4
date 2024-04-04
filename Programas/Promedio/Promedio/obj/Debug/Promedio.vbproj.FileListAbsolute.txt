@@ -1,0 +1,33 @@
+c:\users\curso\documents\visual studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.xml
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.vbprojResolveAssemblyReference.cache
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.frmPromedio.resources
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.Resources.resources
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.vbproj.GenerateResource.Cache
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.xml
+C:\Users\Curso\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.exe.config
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.exe
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.xml
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.exe
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.pdb
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.xml
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.vbprojResolveAssemblyReference.cache
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.frmPromedio.resources
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.Resources.resources
+D:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.vbproj.GenerateResource.Cache
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.exe.config
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.exe
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.pdb
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\bin\Debug\Promedio.xml
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.vbprojResolveAssemblyReference.cache
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.frmPromedio.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.Resources.resources
+G:\4. Progra\Programacion De Aplicaciones\Programas\Promedio\Promedio\obj\Debug\Promedio.vbproj.GenerateResource.Cache
